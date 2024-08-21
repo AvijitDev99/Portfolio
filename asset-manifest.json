@@ -1,27 +1,27 @@
-{
+tatus{
   "files": {
-    "main.css": "/static/css/main.153cf37a.css",
-    "main.js": "/static/js/main.9c746eb5.js",
-    "static/media/bannerImg.png": "/static/media/bannerImg.8d6ca2a1fda5d3efe8be.png",
-    "static/media/logo.png": "/static/media/logo.ac0d427a5feded73bfba.png",
-    "static/media/wen.png": "/static/media/wen.5cc46b07ffa06d627684.png",
-    "static/media/contactImg.jpg": "/static/media/contactImg.f210ef93403e8cb90fe2.jpg",
-    "static/media/skoolmotion.png": "/static/media/skoolmotion.72dca2d0898da9737008.png",
-    "static/media/MGI.png": "/static/media/MGI.bb6654fa22f9e4ca0261.png",
-    "static/media/grndszn.png": "/static/media/grndszn.8ce9e4347a8f25be1be1.png",
-    "static/media/hook4hire.png": "/static/media/hook4hire.50242b4c2b11fc6c59f0.png",
-    "static/media/yamatrack.png": "/static/media/yamatrack.4bc88b90235dccc78c37.png",
-    "static/media/uncaged.png": "/static/media/uncaged.eb039e5bfbd0b8545187.png",
-    "static/media/powakaddy.png": "/static/media/powakaddy.1910e0d22ce6c726ead8.png",
-    "static/media/tectectec.png": "/static/media/tectectec.438957ba6f9c638df9c1.png",
-    "static/media/testimonialOne.png": "/static/media/testimonialOne.a6143582309785dca610.png",
-    "static/media/testimonialTwo.png": "/static/media/testimonialTwo.a6143582309785dca610.png",
-    "index.html": "/index.html",
-    "main.153cf37a.css.map": "/static/css/main.153cf37a.css.map",
-    "main.9c746eb5.js.map": "/static/js/main.9c746eb5.js.map"
+    "main.css": "./static/css/main.474c0d88.css",
+    "main.js": "./static/js/main.d9e92ed0.js",
+    "static/media/bannerImg.png": "./static/media/bannerImg.8d6ca2a1fda5d3efe8be.png",
+    "static/media/logo.png": "./static/media/logo.ac0d427a5feded73bfba.png",
+    "static/media/wen.png": "./static/media/wen.5cc46b07ffa06d627684.png",
+    "static/media/contactImg.jpg": "./static/media/contactImg.f210ef93403e8cb90fe2.jpg",
+    "static/media/skoolmotion.png": "./static/media/skoolmotion.72dca2d0898da9737008.png",
+    "static/media/MGI.png": "./static/media/MGI.bb6654fa22f9e4ca0261.png",
+    "static/media/grndszn.png": "./static/media/grndszn.8ce9e4347a8f25be1be1.png",
+    "static/media/hook4hire.png": "./static/media/hook4hire.50242b4c2b11fc6c59f0.png",
+    "static/media/yamatrack.png": "./static/media/yamatrack.4bc88b90235dccc78c37.png",
+    "static/media/uncaged.png": "./static/media/uncaged.eb039e5bfbd0b8545187.png",
+    "static/media/powakaddy.png": "./static/media/powakaddy.1910e0d22ce6c726ead8.png",
+    "static/media/tectectec.png": "./static/media/tectectec.438957ba6f9c638df9c1.png",
+    "static/media/testimonialOne.png": "./static/media/testimonialOne.a6143582309785dca610.png",
+    "static/media/testimonialTwo.png": "./static/media/testimonialTwo.a6143582309785dca610.png",
+    "index.html": "./index.html",
+    "main.474c0d88.css.map": "./static/css/main.474c0d88.css.map",
+    "main.d9e92ed0.js.map": "./static/js/main.d9e92ed0.js.map"
   },
   "entrypoints": [
-    "static/css/main.153cf37a.css",
-    "static/js/main.9c746eb5.js"
+    "static/css/main.474c0d88.css",
+    "static/js/main.d9e92ed0.js"
   ]
 }
